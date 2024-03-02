@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **js, React**
 
-- 👨‍💻 All of my projects are available at [https://ehabmansour.tk/](https://ehabmansour.tk/)
+- 👨‍💻 All of my projects are available at [http://ehab.is-a.dev/](http://ehab.is-a.dev/)
 
 - 📫 How to reach me **mansehab990@gmail.com**
 
